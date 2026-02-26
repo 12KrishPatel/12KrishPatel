@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Patel</h1>
-<h3 align="center">Compute Science & Data Science @ UW Madison</h3>
+<h3 align="center">Computer Science & Data Science @ UW Madison</h3>
+
+- 🎯 I'm as aspiring Software Engineer / AI/ML Engineer seeking opportunities to grow in an industry setting.
 
 - 🔭 I’m currently working on [SyllaBase](https://syllabase.vercel.app/dashboard)
 
