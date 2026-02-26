@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SyllaBase](https://syllabase.vercel.app/dashboard)
 
-- 🌱 I’m currently learning **Operating Systems & LLM's**
+- 🌱 I’m currently learning **Operating Systems, Cloud/DevOps, AI/LLM Applications, and Scalable Systems**
 
 - 👯 I’m looking to collaborate on [Eco-Smart Travel Recommender](https://github.com/12KrishPatel/Smart-Travel-Project)
 
