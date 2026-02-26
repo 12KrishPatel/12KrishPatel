@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi 👋, I'm Krish</h1>
 
 <p align="center">
 CS & Data Science @ UW–Madison • Full-Stack Developer • AI Enthusiast
