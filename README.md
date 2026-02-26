@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krish Patel</h1>
-<h3 align="center">Computer Science & Data Science @ UW Madison</h3>
+<h1 align="center">Hi, I'm Krish Patel</h1>
+<h3 align="center">Junior in Computer Science & Data Science @ UW Madison</h3>
 
 - 🎯 I'm an aspiring Full-Stack / Backend / AI/ML Engineer seeking opportunities to grow in an industry setting.
 
