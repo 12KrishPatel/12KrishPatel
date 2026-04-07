@@ -3,7 +3,7 @@
 
 - 🎯 I'm an aspiring Full-Stack / Backend / AI/ML Engineer seeking opportunities to grow in an industry setting.
 
-- 🔭 I’m currently working on [SyllaBase](https://syllabase.vercel.app/dashboard)
+- 🔭 I’m currently working on [SyllaSync](https://syllasync.dev)
 
 - 🌱 I’m currently learning **Operating Systems, Cloud/DevOps, AI/LLM Applications, and Scalable Systems**
 
