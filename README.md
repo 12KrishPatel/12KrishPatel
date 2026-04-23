@@ -10,11 +10,15 @@
 
 </div>
 
-## `krish_patel`<span style="color:#6a9f6a;">`@uw-madison`</span>
+<div align="center">
+
+## `krish_patel@uw-madison`
 
 ```
 // B.S. Computer Science & Data Science · University of Wisconsin–Madison · class of '27
 ```
+
+</div>
 
 ```yaml
 currently building  → SyllaSync, an AI-powered syllabus and course planning tool for students
