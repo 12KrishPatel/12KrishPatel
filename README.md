@@ -35,32 +35,26 @@ reach me at         → krish.s.patel@icloud.com
   <tr>
     <td width="50%">
       <h3><a href="https://syllasync.dev">📅 SyllaSync</a></h3>
-      <p>AI-powered syllabus scanner that extracts deadlines and builds personalized study plans for students.</p>
+      <p>AI-powered syllabus scanner that extracts deadlines and automatically builds calendars for students with reminders.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-0d2820?style=flat-square&logo=next.js&logoColor=5dcaa5" />
-        <img src="https://img.shields.io/badge/FastAPI-0d1e30?style=flat-square&logo=fastapi&logoColor=7eb8f7" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1e30?style=flat-square&logo=postgresql&logoColor=7eb8f7" />
+        <img src="https://img.shields.io/badge/Python-1e1530?style=flat-square&logo=python&logoColor=c8a8f0" />
+        <img src="https://img.shields.io/badge/TypeScript-1e1530?style=flat-square&logo=typescript&logoColor=c8a8f0" />
+        <img src="https://img.shields.io/badge/React%20Native-0d2820?style=flat-square&logo=react&logoColor=5dcaa5" />
+        <img src="https://img.shields.io/badge/AWS-2a2010?style=flat-square&logo=amazonaws&logoColor=f0c060" />
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/12KrishPatel/qiskit_hackathon25">⚛️ Quantum Recommender</a></h3>
-      <p>Hybrid quantum-classical recommendation engine built during the IBM Qiskit x WQCC Hackathon.</p>
+      <p>🏆 <b>3rd Place — IBM Qiskit x WQCC Hackathon.</b> Hybrid quantum-classical recommendation engine.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-1e1530?style=flat-square&logo=python&logoColor=c8a8f0" />
+        <img src="https://img.shields.io/badge/React-0d2820?style=flat-square&logo=react&logoColor=5dcaa5" />
         <img src="https://img.shields.io/badge/Qiskit-2a1020?style=flat-square&logo=qiskit&logoColor=f090b8" />
         <img src="https://img.shields.io/badge/Scikit--learn-2a1020?style=flat-square&logo=scikitlearn&logoColor=f090b8" />
       </p>
     </td>
   </tr>
 </table>
-
----
-
-### `// achievements`
-
-```
-🏆  3rd Place — IBM Qiskit x WQCC Hackathon (Quantum Recommender)
-```
 
 ---
 
