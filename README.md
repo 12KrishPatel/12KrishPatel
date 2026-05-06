@@ -29,6 +29,41 @@ reach me at         → krish.s.patel@icloud.com
 
 ---
 
+### `// featured projects`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://syllasync.dev">📅 SyllaSync</a></h3>
+      <p>AI-powered syllabus scanner that extracts deadlines and builds personalized study plans for students.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0d2820?style=flat-square&logo=next.js&logoColor=5dcaa5" />
+        <img src="https://img.shields.io/badge/FastAPI-0d1e30?style=flat-square&logo=fastapi&logoColor=7eb8f7" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1e30?style=flat-square&logo=postgresql&logoColor=7eb8f7" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/12KrishPatel/qiskit_hackathon25">⚛️ Quantum Recommender</a></h3>
+      <p>Hybrid quantum-classical recommendation engine built during the IBM Qiskit x WQCC Hackathon.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1e1530?style=flat-square&logo=python&logoColor=c8a8f0" />
+        <img src="https://img.shields.io/badge/Qiskit-2a1020?style=flat-square&logo=qiskit&logoColor=f090b8" />
+        <img src="https://img.shields.io/badge/Scikit--learn-2a1020?style=flat-square&logo=scikitlearn&logoColor=f090b8" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `// achievements`
+
+```
+🏆  3rd Place — IBM Qiskit x WQCC Hackathon (Quantum Recommender)
+```
+
+---
+
 ### `// languages`
 
 ![Python](https://img.shields.io/badge/Python-1e1530?style=flat-square&logo=python&logoColor=c8a8f0)
