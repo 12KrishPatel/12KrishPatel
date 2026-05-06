@@ -41,6 +41,7 @@ reach me at         → krish.s.patel@icloud.com
         <img src="https://img.shields.io/badge/TypeScript-1e1530?style=flat-square&logo=typescript&logoColor=c8a8f0" />
         <img src="https://img.shields.io/badge/React%20Native-0d2820?style=flat-square&logo=react&logoColor=5dcaa5" />
         <img src="https://img.shields.io/badge/AWS-2a2010?style=flat-square&logo=amazonaws&logoColor=f0c060" />
+        <img src="https://img.shields.io/badge/Next.js-0d2820?style=flat-square&logo=next.js&logoColor=5dcaa5" />
       </p>
     </td>
     <td width="50%">
@@ -51,7 +52,6 @@ reach me at         → krish.s.patel@icloud.com
         <img src="https://img.shields.io/badge/React-0d2820?style=flat-square&logo=react&logoColor=5dcaa5" />
         <img src="https://img.shields.io/badge/Qiskit-2a1020?style=flat-square&logo=qiskit&logoColor=f090b8" />
         <img src="https://img.shields.io/badge/Scikit--learn-2a1020?style=flat-square&logo=scikitlearn&logoColor=f090b8" />
-        <img src="https://img.shields.io/badge/Next.js-0d2820?style=flat-square&logo=next.js&logoColor=5dcaa5" />
       </p>
     </td>
   </tr>
