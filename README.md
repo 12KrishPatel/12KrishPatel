@@ -22,8 +22,8 @@
 
 ```yaml
 currently building  → SyllaSync, an AI-powered syllabus scanning and planning tool for students
-currently learning  → operating systems, cloud & devops, LLM application development, and scalable system design
-open to             → full-stack and AI/ML engineering internship roles where I can grow in a real industry setting
+currently learning  → operating systems, cloud & devops, LLM integration, and scalable system design
+open to             → SWE and AI/ML internship roles where I can grow while contributing to work that matters
 reach me at         → krish.s.patel@icloud.com
 ```
 
